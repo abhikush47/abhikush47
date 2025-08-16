@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **CAB,PIZRA**
 
-- 👨‍💻 All of my projects are available at [aalokkushwaha.com.np}
+- 👨‍💻 All of my projects are available at [https://www.aalokkushwaha.com.np]
 
 - 💬 Ask me about **Portfolio Generation,Android**
 
