@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **CAB,PIZRA**
 
-- 👨‍💻 All of my projects are available at [abhikush47.github.io](abhikush47.github.io)
+- 👨‍💻 All of my projects are available at [aalokkushwaha.com.np}
 
 - 💬 Ask me about **Portfolio Generation,Android**
 
