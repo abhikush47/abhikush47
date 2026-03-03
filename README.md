@@ -1,69 +1,57 @@
-<!-- ======= Animated Header ======= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:000000&height=200&section=header&text=Abhishek%20Kushwaha&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+<!-- ===== Ultra Minimal Header ===== -->
 
-<h1 align="center">Hi 👋, I'm Abhishek Kushwaha</h1>
+<h1 align="center">Abhishek Kushwaha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Android+Developer;Open+Source+Enthusiast;Problem+Solver;Building+Impactful+Products" />
+Full Stack Engineer • Android Developer • Startup Builder
 </p>
 
 <p align="center">
-  🚀 Building impactful digital experiences from Nepal  
+Building scalable digital products from Nepal 🇳🇵
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-- 🔭 Currently building **CAB**
-- 🌱 Learning **C, C++, Kali Linux, Advanced CSS**
-- 👯 Open to collaborate on **CAB, PIZRA & Open Source**
-- 💬 Ask me about **React, Android, Portfolio Development**
-- 📫 Reach me at: **abhi.kush047@gmail.com**
-- 🌐 Portfolio: [kushwahaabhishek.com.np](https://www.kushwahaabhishek.com.np/)
-- 📄 Resume: [View Here](https://www.kushwahaabhishek.com.np/#about)
+- 🚀 Currently building **CAB**
+- 🧠 Learning systems, scalability & architecture
+- 🤝 Open to collaboration & serious product ideas
+- 🌐 Portfolio → [kushwahaabhishek.com.np](https://www.kushwahaabhishek.com.np/)
+- 📩 Contact → abhi.kush047@gmail.com
 
 ---
 
-## 🌐 Connect With Me
+## Tech Stack
 
 <p align="center">
-<a href="https://twitter.com/abhikush_47"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://linkedin.com/in/abhishek-kushwaha-846321289"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/abhi__kush47/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,cpp,c,flutter,android,git,linux" />
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## Current Focus
+
+- Building production-ready SaaS systems
+- Scaling backend architectures
+- Writing clean, maintainable code
+- Contributing to Open Source
+
+---
+
+## GitHub Overview
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,js,react,nodejs,flutter,android,git,linux,html,css" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhikush47&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abhikush47&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
 </p>
 
 ---
 
-## 🚀 Working Projects
-
-| Project | Description |
-|----------|-------------|
-| 🔥 CAB |  
-| 🍕 PIZRA | 
-| 🌐 Portfolio | 
-
----
-
-## 📊 GitHub Stats
+## Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhikush47&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhikush47&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhikush47&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhikush47&theme=github-compact&hide_border=true" />
 </p>
 
 ---
@@ -76,45 +64,20 @@
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhikush47&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhikush47&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhikush47&theme=flat&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
 
-## 👁 Profile Visitors
+## Founder Mindset
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhikush47&style=for-the-badge&color=red" />
-</p>
-
----
-
-## 🎯 2026 Goals
-
-- Master Full Stack Development  
-- Build scalable SaaS product  
-- Contribute to major Open Source projects  
-- Strengthen Data Structures & Algorithms  
-
----
-
-## 🧠 Developer Mindset
-
-> “Consistency builds mastery. Small improvements every day.”
+> Build products. Solve real problems. Think long-term.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=120&section=footer"/>
+<sub>Focused on building meaningful technology.</sub>
 </p>
