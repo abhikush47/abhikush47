@@ -19,8 +19,8 @@
 - 👯 Open to collaborate on **CAB, PIZRA & Open Source**
 - 💬 Ask me about **React, Android, Portfolio Development**
 - 📫 Reach me at: **abhi.kush047@gmail.com**
-- 🌐 Portfolio: [aalokkushwaha.com.np](https://www.aalokkushwaha.com.np)
-- 📄 Resume: [View Here](https://drive.google.com/file/d/1hCQhGnapNQlCYibkZPWxYADa2NIxtcGg/view)
+- 🌐 Portfolio: [kushwahaabhishek.com](https://www.kushwahaabhishek.com.np/)
+- 📄 Resume: [View Here](https://www.kushwahaabhishek.com.np/#about)
 
 ---
 
@@ -48,16 +48,10 @@ Git • Linux • VS Code
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Working Projects
 
 ### 🔥 CAB  
-Ride booking platform with real-time functionality.
-
-### 🍕 PIZRA  
-Smart food ordering system.
-
-### 🌐 Portfolio Website  
-Personal portfolio showcasing full-stack projects.
+Security Based System 
 
 ---
 
