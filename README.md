@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Abhishek Kushwaha</h1>
-<h3 align="center">Full Stack Developer | Android Developer | Problem Solver</h3>
+<h3 align="center">Full Stack Developer | FOUNDER | Problem Solver</h3>
 
 <p align="center">
 🚀 Building impactful digital experiences from Nepal 🇳🇵
