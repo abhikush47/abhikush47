@@ -116,3 +116,9 @@ Personal portfolio showcasing full-stack projects.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=120&section=footer"/>
 </p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhikush47/abhikush47/output/github-contribution-grid-snake-dark.svg" />
+</p>
