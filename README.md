@@ -62,7 +62,7 @@ Contact → abhi.kush047@gmail.com
 ## Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhikush47&theme=flat&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhikush47&theme=flat" />
 </p>
 
 ---
