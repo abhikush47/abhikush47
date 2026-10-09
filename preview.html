@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Abhishek Kushwaha — profile README preview</title>
+<style>
+  :root { color-scheme: dark; --navy:#070b16; --card:#0e1830; --line:rgba(150,175,225,.22);
+          --ink:#eef3ff; --muted:#8d9dc0; --blue:#247bff; --crimson:#ff354f; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--navy); color:var(--ink);
+         font:15px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; }
+  header { padding:40px 24px 8px; max-width:940px; margin:0 auto; }
+  h1 { font-size:30px; margin:0 0 6px; letter-spacing:-.4px; }
+  p.sub { margin:0; color:var(--muted); }
+  .bar { display:flex; gap:10px; flex-wrap:wrap; margin:22px 0 8px; }
+  .bar button { background:rgba(150,175,225,.08); color:var(--ink); border:1px solid var(--line);
+                border-radius:999px; padding:8px 16px; font-size:13px; cursor:pointer; }
+  .bar button[aria-pressed="true"] { background:rgba(36,123,255,.18); border-color:rgba(36,123,255,.55); }
+  main { max-width:940px; margin:0 auto; padding:8px 24px 64px; }
+  figure { margin:26px 0; }
+  figure img { width:100%; display:block; border-radius:10px; }
+  figcaption { color:var(--muted); font-size:12.5px; margin-top:8px; }
+  .narrow { max-width:420px; }
+  .note { border:1px solid var(--line); border-radius:14px; padding:16px 18px;
+          background:var(--card); color:var(--muted); font-size:13.5px; }
+  .note b { color:var(--ink); }
+  a { color:var(--blue); }
+</style>
+</head>
+<body>
+<header>
+  <h1>Profile README preview</h1>
+  <p class="sub">Five self-contained animated SVGs, shown exactly as GitHub renders them.</p>
+  <div class="bar">
+    <button id="wide" aria-pressed="true">GitHub width (≈880px)</button>
+    <button id="mobile" aria-pressed="false">Mobile width (420px)</button>
+    <button id="reload">Restart animations</button>
+  </div>
+</header>
+<main>
+  <div class="note">
+    <b>Reduced motion:</b> turn on “Reduce motion” in your OS accessibility settings and reload —
+    the looping animations stop and a static layout takes over. Files you upload:
+    <code>assets/hero.svg</code>, <code>assets/about-life.svg</code>, <code>assets/stack.svg</code>,
+    <code>assets/id-dashboard.svg</code>, <code>assets/connect.svg</code> and <code>README.md</code>.
+  </div>
+  <figure><img src="assets/hero.svg?v=1" alt="Hero banner: typed greeting, rising name reveal, cycling roles, pitch, portrait and location row." />
+    <figcaption>assets/hero.svg — typed greeting, name reveal, four cycling roles, portrait and location/company row.</figcaption></figure>
+  <figure><img src="assets/about-life.svg?v=1" alt="Capabilities beside a three-slide interests carousel." />
+    <figcaption>assets/about-life.svg — capabilities beside the interests carousel (new slide every 4 seconds).</figcaption></figure>
+  <figure><img src="assets/stack.svg?v=1" alt="Labelled tech icons on three tilted elliptical orbits with grouped stack chips." />
+    <figcaption>assets/stack.svg — labelled icons on three tilted orbits plus grouped chips.</figcaption></figure>
+  <figure><img src="assets/id-dashboard.svg?v=1" alt="Hanging lanyard ID with metal clasp, portrait, barcode and a verified facts panel." />
+    <figcaption>assets/id-dashboard.svg — lanyard drop, damped settle, then a gentle ±1.7° swing.</figcaption></figure>
+  <figure><img src="assets/connect.svg?v=1" alt="Pointing character with LinkedIn, Instagram and Facebook cards." />
+    <figcaption>assets/connect.svg — pointing character with social cards and nudging arrows.</figcaption></figure>
+</main>
+<script>
+  var main = document.querySelector('main');
+  var wide = document.getElementById('wide'), mob = document.getElementById('mobile');
+  function setMode(m) {
+    main.classList.toggle('narrow', m === 'n');
+    wide.setAttribute('aria-pressed', String(m === 'w'));
+    mob.setAttribute('aria-pressed', String(m === 'n'));
+  }
+  wide.addEventListener('click', function () { setMode('w'); });
+  mob.addEventListener('click', function () { setMode('n'); });
+  document.getElementById('reload').addEventListener('click', function () {
+    document.querySelectorAll('figure img').forEach(function (img) {
+      var src = img.getAttribute('src').split('&r=')[0];
+      img.setAttribute('src', src + '&r=' + Date.now());
+    });
+  });
+</script>
+</body>
+</html>
